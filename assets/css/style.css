@@ -358,6 +358,8 @@ section {
 button.downloadButton {
   border-radius: 10px;
   border: 1px solid white;
+  width: 30%;
+  margin-left: 15px;
 }
 
 button.downloadButton:hover{
